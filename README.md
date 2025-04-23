@@ -1,4 +1,4 @@
-# Dot_Counts_Gap_Area
+README.md
 ### Script: Red_Dot_Counter.py
 
 ## 1. Introduction
